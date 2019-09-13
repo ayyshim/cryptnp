@@ -1,17 +1,25 @@
 {
   "name": "cryptnp",
   "version": "0.0.1",
-  "description": "Encrypt and decrypt confidential datas.",
+  "description": "Rail or derail your confidential data and also bound it with time limitation.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayyshim/cryptnp.git"
+  },
   "keywords": [
+    "cryptnp",
+    "np",
     "crypt",
-    "encrypt",
-    "decrypt",
     "crypto"
   ],
   "author": "Ashim Upadhaya <upadhayaashim@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayyshim/cryptnp/issues"
+  },
+  "homepage": "https://github.com/ayyshim/cryptnp#readme"
 }
