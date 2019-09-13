@@ -1,0 +1,17 @@
+{
+  "name": "cryptnp",
+  "version": "0.0.1",
+  "description": "Encrypt and decrypt confidential datas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypt",
+    "encrypt",
+    "decrypt",
+    "crypto"
+  ],
+  "author": "Ashim Upadhaya <upadhayaashim@gmail.com>",
+  "license": "MIT"
+}
